@@ -312,6 +312,7 @@ int main ( void )
                     "%ld of %ld code tests passed\r\n"
                     "Score: %ld points out of %ld points for code test\r\n"
                     "Total score: %ld\r\n"
+                    "FINI!!!!!\r\n"
                     "\r\n",
                     (char *) nameStrPtr,idleCount,
                     strPassCount,
